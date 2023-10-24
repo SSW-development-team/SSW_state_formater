@@ -9,3 +9,5 @@ anti_air_building
 radar_station
 rocket_site
 nuclear_reactor
+missile_factory
+steel_mill
